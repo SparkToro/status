@@ -22,7 +22,7 @@ status-website:
   cname: status.sparktoro.com
   name: SparkToro Status
   introTitle: "SparkToro Status"
-  introMessage: Live and historical status for the SparkToro app, public API, and MCP server. Powered by GitHub Actions, Issues, and Pages, hosted independently of our application infrastructure.
+  introMessage: Live and historical status for the SparkToro app, public API, and MCP server.
   theme: light
   navbar:
     - title: Status
