@@ -5,11 +5,18 @@ sites:
   - name: Website
     url: https://sparktoro.com
   - name: Public API
-    url: https://api.sparktoro.com/api/health
+    url: https://api.sparktoro.com/health
+    # The API host gates every path behind auth, so an unauthenticated probe
+    # returns 401. A 401 proves the edge is alive (TLS + app responding), which
+    # is what we monitor. Replace with a whitelisted public /health (expecting
+    # 200) if/when one is added to the API service.
+    expectedStatusCodes:
+      - 200
+      - 401
   - name: MCP Server
-    url: https://mcp.sparktoro.com
+    url: https://mcp.sparktoro.com/health
   - name: API Docs
-    url: https://sparktoro.com/api/docs
+    url: https://sparktoro.com/api
 
 status-website:
   cname: status.sparktoro.com
