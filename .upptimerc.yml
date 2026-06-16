@@ -1,6 +1,9 @@
 owner: SparkToro
 repo: status
 
+assignees:
+  - caseyhen
+
 sites:
   - name: Website
     url: https://sparktoro.com
@@ -24,11 +27,33 @@ status-website:
   introTitle: "SparkToro Status"
   introMessage: Live and historical status for the SparkToro app, public API, and MCP server.
   theme: light
+  logoUrl: https://raw.githubusercontent.com/SparkToro/status/master/brand/logo.svg
+  favicon: https://raw.githubusercontent.com/SparkToro/status/master/brand/favicon.png
   navbar:
     - title: Status
       href: /
     - title: SparkToro
       href: https://sparktoro.com
+  # SparkToro brand fonts (Montserrat) loaded into the page head.
+  customHeadHtml: >-
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+  # SparkToro brand palette: cyan #0fb6e9 primary accent, deep teal-navy #05242c headings.
+  css: |
+    :root {
+      --ifm-color-primary: #0fb6e9;
+      --ifm-color-primary-dark: #0ca4d2;
+      --ifm-color-primary-darker: #0b9bc6;
+      --ifm-color-primary-darkest: #0980a3;
+      --ifm-color-primary-light: #2cc0ec;
+      --ifm-color-primary-lighter: #3ac4ed;
+      --ifm-color-primary-lightest: #62d0f0;
+      --ifm-font-family-base: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      --ifm-heading-font-family: 'Montserrat', sans-serif;
+      --ifm-heading-color: #05242c;
+      --ifm-link-color: #0fb6e9;
+    }
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
