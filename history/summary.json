@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.sparktoro.com.ico",
     "slug": "public-api",
     "status": "up",
-    "uptime": "2.84%",
-    "uptimeDay": "2.84%",
-    "uptimeWeek": "2.84%",
-    "uptimeMonth": "2.84%",
-    "uptimeYear": "2.84%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 102,
     "timeDay": 102,
     "timeWeek": 102,
     "timeMonth": 102,
     "timeYear": 102,
-    "dailyMinutesDown": {
-      "2026-06-16": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MCP Server",
@@ -43,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mcp.sparktoro.com.ico",
     "slug": "mcp-server",
     "status": "up",
-    "uptime": "2.52%",
-    "uptimeDay": "2.52%",
-    "uptimeWeek": "2.52%",
-    "uptimeMonth": "2.52%",
-    "uptimeYear": "2.52%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 127,
     "timeDay": 127,
     "timeWeek": 127,
     "timeMonth": 127,
     "timeYear": 127,
-    "dailyMinutesDown": {
-      "2026-06-16": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API Docs",
