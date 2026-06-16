@@ -54,6 +54,10 @@ status-website:
       --ifm-heading-color: #05242c;
       --ifm-link-color: #0fb6e9;
     }
+    /* Logo already contains the SparkToro wordmark — hide the redundant navbar title text. */
+    .navbar__title {
+      display: none;
+    }
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
