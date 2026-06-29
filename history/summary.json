@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 120,
-    "timeDay": 91,
-    "timeWeek": 103,
+    "timeDay": 125,
+    "timeWeek": 108,
     "timeMonth": 120,
     "timeYear": 120,
     "dailyMinutesDown": {}
@@ -23,17 +23,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.sparktoro.com.ico",
     "slug": "public-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 244,
-    "timeDay": 165,
-    "timeWeek": 242,
-    "timeMonth": 244,
-    "timeYear": 244,
-    "dailyMinutesDown": {}
+    "uptime": "94.06%",
+    "uptimeDay": "23.88%",
+    "uptimeWeek": "89.13%",
+    "uptimeMonth": "94.06%",
+    "uptimeYear": "94.06%",
+    "time": 234,
+    "timeDay": 60,
+    "timeWeek": 187,
+    "timeMonth": 234,
+    "timeYear": 234,
+    "dailyMinutesDown": {
+      "2026-06-29": 50,
+      "2026-06-28": 1046
+    }
   },
   {
     "name": "MCP Server",
@@ -46,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 200,
-    "timeDay": 239,
-    "timeWeek": 214,
-    "timeMonth": 200,
-    "timeYear": 200,
+    "time": 201,
+    "timeDay": 228,
+    "timeWeek": 207,
+    "timeMonth": 201,
+    "timeYear": 201,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 193,
-    "timeDay": 89,
-    "timeWeek": 252,
-    "timeMonth": 193,
-    "timeYear": 193,
+    "time": 186,
+    "timeDay": 72,
+    "timeWeek": 237,
+    "timeMonth": 186,
+    "timeYear": 186,
     "dailyMinutesDown": {}
   }
 ]
