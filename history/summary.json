@@ -25,22 +25,15 @@
     "status": "up",
     "uptime": "79.05%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "85.34%",
-    "uptimeMonth": "79.05%",
-    "uptimeYear": "79.05%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 207,
     "timeDay": 261,
     "timeWeek": 201,
     "timeMonth": 207,
     "timeYear": 207,
-    "dailyMinutesDown": {
-      "2026-07-03": 75,
-      "2026-07-02": 1440,
-      "2026-07-01": 1440,
-      "2026-06-30": 1440,
-      "2026-06-29": 1440,
-      "2026-06-28": 1046
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MCP Server",
