@@ -58,17 +58,19 @@
     "url": "https://sparktoro.com/api",
     "icon": "https://icons.duckduckgo.com/ip3/sparktoro.com.ico",
     "slug": "api-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 188,
-    "timeDay": 228,
-    "timeWeek": 213,
-    "timeMonth": 262,
-    "timeYear": 188,
-    "dailyMinutesDown": {}
+    "time": 190,
+    "timeDay": 315,
+    "timeWeek": 237,
+    "timeMonth": 267,
+    "timeYear": 190,
+    "dailyMinutesDown": {
+      "2026-11-08": 0
+    }
   }
 ]
